@@ -11,7 +11,7 @@
     <a href="#contribute"> Contribuir </a>
 </p>
 
-## Sobre 🏷 <a name="about" />
+## Sobre 🦄 <a name="about" />
 O **Happy** é uma plataforma para que pessoas encontrem orfanatos perto de sua localização e leve mais felicidade para as crianças, e foi pensada pois estamos próximo ao dia das crianças.
 
 
