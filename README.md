@@ -56,9 +56,6 @@ Acesse a pasta do projeto `$ cd web`
 
   **`npm start`**
 
-  **`npm start`**
-
-
 
 E a aplicação web estará rodando no url: <a href="http://localhost:3000" target="_blank">http://localhost:3000 </a>
 
